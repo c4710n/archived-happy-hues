@@ -12,7 +12,7 @@
   font-display: swap;
   font-style: normal;
   font-named-instance: 'Regular';
-  src: url('/fonts/Inter-var/Inter-roman.var.woff2') format('woff2');
+  src: url('../fonts/Inter-var/Inter-roman.var.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Inter var';
@@ -20,7 +20,7 @@
   font-display: swap;
   font-style: italic;
   font-named-instance: 'Italic';
-  src: url('/fonts/Inter-var/Inter-italic.var.woff2') format('woff2');
+  src: url('../fonts/Inter-var/Inter-italic.var.woff2') format('woff2');
 }
 
 /* Generated on: Mon Nov 09 2020 20:05:05 GMT+0000 (Coordinated Universal Time) */
